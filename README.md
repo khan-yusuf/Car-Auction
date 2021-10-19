@@ -1,4 +1,4 @@
-# Local-Network-Car-Auction
+# Server-Socket Networking Car Auction
 
 ## Login Splash page
 <img width="594" alt="Screen Shot 2021-10-18 at 10 43 07 PM" src="https://user-images.githubusercontent.com/61263058/137840622-4379f630-559c-4c35-ac3e-cd833a3644c7.png">
