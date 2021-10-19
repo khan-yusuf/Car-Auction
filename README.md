@@ -23,3 +23,5 @@ Bids are connected to username and persistant even when user logs off
 Displays the sold out items, which will only be reset when server is run again
 <img width="438" alt="Screen Shot 2021-10-18 at 10 46 19 PM" src="https://user-images.githubusercontent.com/61263058/137840946-64923528-c6ae-4ed1-948d-9d6cb1c9fee0.png">
 Shows what user did bidding and for how much, stored in backend server.
+
+Project can be improved with server deployment on the cloud and use of MongoDB database to store JSON car objects for each user and their username/password (encrypted through some hashing techniques).
