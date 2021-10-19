@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "model": "Nissan GT-R R34",
+    "description": "2001 model\n2.8L RB26DETT engine\n320HP",
+    "buyItNowPrice": 150.00,
+    "currentBid": 45.00,
+    "image": "nissan.jpeg"
+  },
+
+  {
+    "id": 1,
+    "model": "Honda Civic",
+    "description": "1996 model\n2.0L 4-cylinder V-TEC engine\n245HP",
+    "buyItNowPrice": 60.00,
+    "currentBid": 16.00,
+    "image": "honda.jpeg"
+  },
+
+  {
+    "id": 2,
+    "model": "Toyota Mark IV Supra",
+    "description": "1999 model\n2JZ-GTE 3.0L engine\n320HP",
+    "buyItNowPrice": 180.00,
+    "currentBid": 50.00,
+    "image": "toyota.jpeg"
+  },
+
+  {
+    "id": 3,
+    "model": "Mazda Rx-7",
+    "description": "2002 model\ntwin-chamber rotary engine\n255HP",
+    "buyItNowPrice": 140.00,
+    "currentBid": 30.00,
+    "image": "mazda.jpeg"
+  },
+
+  {
+    "id": 4,
+    "model": "Mitsubishi Lancer Evolution VIII",
+    "description": "2005 model\n2.0L 4G63 engine\n276HP",
+    "buyItNowPrice": 100.00,
+    "currentBid": 25.00,
+    "image": "mitsubishi.jpeg"
+  }
+
+]
